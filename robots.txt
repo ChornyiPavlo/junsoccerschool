@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://aviator.genius-world-kz.com/sitemap.xml
+Host: aviator.genius-world-kz.com
